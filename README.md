@@ -21,3 +21,8 @@ there are no other commands as we are big lazy fools, but then again so are you.
 
 
                                                      I HOPE YOU ENJOY SUCKING AT OUR GAME 
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     WARNING- this game is coded in windows batch. if you are not running a windows computer or windows emulator then do NOT download as it will corrupt your computer.
